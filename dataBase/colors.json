@@ -1,0 +1,550 @@
+{
+    "colors": [
+        {
+            "id": 0,
+            "name": "--clr-c-red",
+            "value": "225 100 90",
+            "hexValue": "#e1645a",
+            "selected": false
+        },
+        {
+            "id": 1,
+            "name": "--clr-c-green",
+            "value": "80 90 80",
+            "hexValue": "#505a50",
+            "selected": false
+        },
+        {
+            "id": 2,
+            "name": "--clr-c-yellow",
+            "value": "245 225 180",
+            "hexValue": "#f5e1b4",
+            "selected": false
+        },
+        {
+            "id": 3,
+            "name": "--clr-c-gray",
+            "value": "29 29 31",
+            "hexValue": "#1d1d1f",
+            "selected": false
+        },
+        {
+            "id": 4,
+            "name": "--clr-white",
+            "value": "250 250 250",
+            "hexValue": "#fafafa",
+            "selected": false
+        },
+        {
+            "id": 5,
+            "name": "--clr-black",
+            "value": "0 0 0",
+            "hexValue": "#000000",
+            "selected": false
+        },
+        {
+            "id": 6,
+            "name": "--clr-light-red",
+            "value": "255 50 40",
+            "hexValue": "#ff3228",
+            "selected": false
+        },
+        {
+            "id": 7,
+            "name": "--clr-light-orange",
+            "value": "245 140 5",
+            "hexValue": "#f58c05",
+            "selected": false
+        },
+        {
+            "id": 8,
+            "name": "--clr-light-yellow",
+            "value": "245 195 0",
+            "hexValue": "#f5c300",
+            "selected": false
+        },
+        {
+            "id": 9,
+            "name": "--clr-light-green",
+            "value": "30 195 55",
+            "hexValue": "#1ec337",
+            "selected": false
+        },
+        {
+            "id": 10,
+            "name": "--clr-light-mint",
+            "value": "0 190 190",
+            "hexValue": "#00bebe",
+            "selected": false
+        },
+        {
+            "id": 11,
+            "name": "--clr-light-teal",
+            "value": "45 165 190",
+            "hexValue": "#2da5be",
+            "selected": false
+        },
+        {
+            "id": 12,
+            "name": "--clr-light-cyan",
+            "value": "65 175 220",
+            "hexValue": "#41afdc",
+            "selected": false
+        },
+        {
+            "id": 13,
+            "name": "--clr-light-blue",
+            "value": "0 100 245",
+            "hexValue": "#0064f5",
+            "selected": false
+        },
+        {
+            "id": 14,
+            "name": "--clr-light-indigo",
+            "value": "85 80 205",
+            "hexValue": "#5550cd",
+            "selected": false
+        },
+        {
+            "id": 15,
+            "name": "--clr-light-purple",
+            "value": "160 75 200",
+            "hexValue": "#a04bc8",
+            "selected": false
+        },
+        {
+            "id": 16,
+            "name": "--clr-light-pink",
+            "value": "245 35 75",
+            "hexValue": "#f5234b",
+            "selected": false
+        },
+        {
+            "id": 17,
+            "name": "--clr-light-brown",
+            "value": "150 120 85",
+            "hexValue": "#967855",
+            "selected": false
+        },
+        {
+            "id": 18,
+            "name": "--clr-dark-red",
+            "value": "255 80 70",
+            "hexValue": "#ff5046",
+            "selected": false
+        },
+        {
+            "id": 19,
+            "name": "--clr-dark-orange",
+            "value": "255 170 20",
+            "hexValue": "#ffaa14",
+            "selected": false
+        },
+        {
+            "id": 20,
+            "name": "--clr-dark-yellow",
+            "value": "255 225 20",
+            "hexValue": "#ffe114",
+            "selected": false
+        },
+        {
+            "id": 21,
+            "name": "--clr-dark-green",
+            "value": "60 225 85",
+            "hexValue": "#3ce155",
+            "selected": false
+        },
+        {
+            "id": 22,
+            "name": "--clr-dark-mint",
+            "value": "110 225 220",
+            "hexValue": "#6ee1dc",
+            "selected": false
+        },
+        {
+            "id": 23,
+            "name": "--clr-dark-teal",
+            "value": "70 210 235",
+            "hexValue": "#46d2eb",
+            "selected": false
+        },
+        {
+            "id": 24,
+            "name": "--clr-dark-cyan",
+            "value": "90 205 250",
+            "hexValue": "#5acdfa",
+            "selected": false
+        },
+        {
+            "id": 25,
+            "name": "--clr-dark-blue",
+            "value": "20 140 255",
+            "hexValue": "#148cff",
+            "selected": false
+        },
+        {
+            "id": 26,
+            "name": "--clr-dark-indigo",
+            "value": "100 100 240",
+            "hexValue": "#6464f0",
+            "selected": false
+        },
+        {
+            "id": 27,
+            "name": "--clr-dark-purple",
+            "value": "205 100 255",
+            "hexValue": "#cd64ff",
+            "selected": false
+        },
+        {
+            "id": 28,
+            "name": "--clr-dark-pink",
+            "value": "255 65 105",
+            "hexValue": "#ff4169",
+            "selected": false
+        },
+        {
+            "id": 29,
+            "name": "--clr-dark-brown",
+            "value": "180 150 115",
+            "hexValue": "#b49673",
+            "selected": false
+        },
+        {
+            "id": 30,
+            "name": "--clr-a-light-red",
+            "value": "195 5 25",
+            "hexValue": "#c30519",
+            "selected": false
+        },
+        {
+            "id": 31,
+            "name": "--clr-a-light-orange",
+            "value": "175 60 0",
+            "hexValue": "#af3c00",
+            "selected": false
+        },
+        {
+            "id": 32,
+            "name": "--clr-a-light-yellow",
+            "value": "145 80 1",
+            "hexValue": "#915001",
+            "selected": false
+        },
+        {
+            "id": 33,
+            "name": "--clr-a-light-green",
+            "value": "0 110 25",
+            "hexValue": "#006e19",
+            "selected": false
+        },
+        {
+            "id": 34,
+            "name": "--clr-a-light-mint",
+            "value": "10 115 115",
+            "hexValue": "#0a7373",
+            "selected": false
+        },
+        {
+            "id": 35,
+            "name": "--clr-a-light-teal",
+            "value": "1 120 140",
+            "hexValue": "#01788c",
+            "selected": false
+        },
+        {
+            "id": 36,
+            "name": "--clr-a-light-cyan",
+            "value": "1 105 150",
+            "hexValue": "#016996",
+            "selected": false
+        },
+        {
+            "id": 37,
+            "name": "--clr-a-light-blue",
+            "value": "0 65 220",
+            "hexValue": "#0041dc",
+            "selected": false
+        },
+        {
+            "id": 38,
+            "name": "--clr-a-light-indigo",
+            "value": "55 50 165",
+            "hexValue": "#3732a5",
+            "selected": false
+        },
+        {
+            "id": 39,
+            "name": "--clr-a-light-purple",
+            "value": "170 70 170",
+            "hexValue": "#aa46aa",
+            "selected": false
+        },
+        {
+            "id": 40,
+            "name": "--clr-a-light-pink",
+            "value": "195 15 50",
+            "hexValue": "#c30f32",
+            "selected": false
+        },
+        {
+            "id": 41,
+            "name": "--clr-a-light-brown",
+            "value": "120 95 60",
+            "hexValue": "#785f3c",
+            "selected": false
+        },
+        {
+            "id": 42,
+            "name": "--clr-a-dark-red",
+            "value": "255 65 55",
+            "hexValue": "#ff4137",
+            "selected": false
+        },
+        {
+            "id": 43,
+            "name": "--clr-a-dark-orange",
+            "value": "255 180 65",
+            "hexValue": "#ffb441",
+            "selected": false
+        },
+        {
+            "id": 44,
+            "name": "--clr-a-dark-yellow",
+            "value": "255 210 40",
+            "hexValue": "#ffd228",
+            "selected": false
+        },
+        {
+            "id": 45,
+            "name": "--clr-a-dark-green",
+            "value": "50 220 75",
+            "hexValue": "#32dc4b",
+            "selected": false
+        },
+        {
+            "id": 46,
+            "name": "--clr-a-dark-mint",
+            "value": "105 210 210",
+            "hexValue": "#69d2d2",
+            "selected": false
+        },
+        {
+            "id": 47,
+            "name": "--clr-a-dark-teal",
+            "value": "95 230 255",
+            "hexValue": "#5fe6ff",
+            "selected": false
+        },
+        {
+            "id": 48,
+            "name": "--clr-a-dark-cyan",
+            "value": "110 215 255",
+            "hexValue": "#6ed7ff",
+            "selected": false
+        },
+        {
+            "id": 49,
+            "name": "--clr-a-dark-blue",
+            "value": "65 155 255",
+            "hexValue": "#419bff",
+            "selected": false
+        },
+        {
+            "id": 50,
+            "name": "--clr-a-dark-indigo",
+            "value": "125 120 255",
+            "hexValue": "#7d78ff",
+            "selected": false
+        },
+        {
+            "id": 51,
+            "name": "--clr-a-dark-purple",
+            "value": "220 145 255",
+            "hexValue": "#dc91ff",
+            "selected": false
+        },
+        {
+            "id": 52,
+            "name": "--clr-a-dark-pink",
+            "value": "255 60 95",
+            "hexValue": "#ff3c5f",
+            "selected": false
+        },
+        {
+            "id": 53,
+            "name": "--clr-a-dark-brown",
+            "value": "180 150 105",
+            "hexValue": "#b49669;",
+            "selected": false
+        },
+        {
+            "id": 54,
+            "name": "--clr-light-gray1",
+            "value": "140 140 145",
+            "hexValue": "#8c8c91",
+            "selected": false
+        },
+        {
+            "id": 55,
+            "name": "--clr-light-gray2",
+            "value": "175 175 180",
+            "hexValue": "#afafb4",
+            "selected": false
+        },
+        {
+            "id": 56,
+            "name": "--clr-light-gray3",
+            "value": "200 200 205",
+            "hexValue": "#c8c8cd",
+            "selected": false
+        },
+        {
+            "id": 57,
+            "name": "--clr-light-gray4",
+            "value": "210 210 215",
+            "hexValue": "#d2d2d7",
+            "selected": false
+        },
+        {
+            "id": 58,
+            "name": "--clr-light-gray5",
+            "value": "230 230 235",
+            "hexValue": "#e6e6eb",
+            "selected": false
+        },
+        {
+            "id": 59,
+            "name": "--clr-light-gray6",
+            "value": "240 240 245",
+            "hexValue": "#f0f0f5",
+            "selected": false
+        },
+        {
+            "id": 60,
+            "name": "--clr-dark-gray1",
+            "value": "140 140 145",
+            "hexValue": "#8c8c91",
+            "selected": false
+        },
+        {
+            "id": 61,
+            "name": "--clr-dark-gray2",
+            "value": "100 100 100",
+            "hexValue": "#646464",
+            "selected": false
+        },
+        {
+            "id": 62,
+            "name": "--clr-dark-gray3",
+            "value": "70 70 75",
+            "hexValue": "#46464b",
+            "selected": false
+        },
+        {
+            "id": 63,
+            "name": "--clr-dark-gray4",
+            "value": "60 60 60",
+            "hexValue": "#3c3c3c",
+            "selected": false
+        },
+        {
+            "id": 64,
+            "name": "--clr-dark-gray5",
+            "value": "45 45 45",
+            "hexValue": "#2d2d2d",
+            "selected": false
+        },
+        {
+            "id": 65,
+            "name": "--clr-dark-gray6",
+            "value": "30 30 30",
+            "hexValue": "#1e1e1e",
+            "selected": false
+        },
+        {
+            "id": 66,
+            "name": "--clr-a-light-gray1",
+            "value": "110 110 110",
+            "hexValue": "#6e6e6e",
+            "selected": false
+        },
+        {
+            "id": 67,
+            "name": "--clr-a-light-gray2",
+            "value": "140 140 145",
+            "hexValue": "#8c8c91",
+            "selected": false
+        },
+        {
+            "id": 68,
+            "name": "--clr-a-light-gray3",
+            "value": "175 175 180",
+            "hexValue": "#afafb4",
+            "selected": false
+        },
+        {
+            "id": 69,
+            "name": "--clr-a-light-gray4",
+            "value": "190 190 190",
+            "hexValue": "#bebebe",
+            "selected": false
+        },
+        {
+            "id": 70,
+            "name": "--clr-a-light-gray5",
+            "value": "215 215 220",
+            "hexValue": "#d7d7dc",
+            "selected": false
+        },
+        {
+            "id": 71,
+            "name": "--clr-a-light-gray6",
+            "value": "235 235 240",
+            "hexValue": "#ebebf0",
+            "selected": false
+        },
+        {
+            "id": 72,
+            "name": "--clr-a-dark-gray1",
+            "value": "175 175 180",
+            "hexValue": "#afafb4",
+            "selected": false
+        },
+        {
+            "id": 73,
+            "name": "--clr-a-dark-gray2",
+            "value": "125 125 130",
+            "hexValue": "#7d7d82",
+            "selected": false
+        },
+        {
+            "id": 74,
+            "name": "--clr-a-dark-gray3",
+            "value": "85 85 85",
+            "hexValue": "#555555",
+            "selected": false
+        },
+        {
+            "id": 75,
+            "name": "--clr-a-dark-gray4",
+            "value": "70 70 70",
+            "hexValue": "#464646",
+            "selected": false
+        },
+        {
+            "id": 76,
+            "name": "--clr-a-dark-gray5",
+            "value": "55 55 55",
+            "hexValue": "#373737",
+            "selected": false
+        },
+        {
+            "id": 77,
+            "name": "--clr-a-dark-gray6",
+            "value": "36 36 40",
+            "hexValue": "#242428",
+            "selected": false
+        }
+    ]
+}
